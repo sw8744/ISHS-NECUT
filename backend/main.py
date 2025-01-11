@@ -1,4 +1,5 @@
 from fastapi import FastAPI
+import cv2
 
 app = FastAPI()
 

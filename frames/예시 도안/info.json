@@ -1,0 +1,38 @@
+{   
+    "title": "예시 도안",
+
+    "description": "인곽네컷의 예시 도안",
+
+    "type": "normal",
+
+    "frameSize": {
+        "width": 1060,
+        "height": 3187
+    },
+
+    "imgAmount": 4,
+    
+    "imgSize": {
+        "width": 1000,
+        "height": 677
+    },
+
+    "imgPos": [
+        {
+            "x": 30,
+            "y": 30
+        },
+        {
+            "x": 30,
+            "y": 737
+        },
+        {
+            "x": 30,
+            "y": 1444
+        },
+        {
+            "x": 30,
+            "y": 2152
+        }
+    ]
+}
